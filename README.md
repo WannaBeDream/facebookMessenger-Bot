@@ -6,7 +6,7 @@ Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https
 
 ```sh
 $ git clone git@github.com:WannaBeDream/facebookMessenger-Bot.git # or clone your own fork
-$ cd vctest
+$ cd Alextest
 $ npm install
 $ npm start
 ```
