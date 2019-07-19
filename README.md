@@ -14,7 +14,7 @@ $ npm start
 Your app should now be running on [localhost:5000](http://localhost:5000/).
 
 More information in [article](https://vc.ru/flood/14939-bot-facebook/).
-[![Example this app](https://lh3.googleusercontent.com/rWNX1ISNyu-e9T_pRtSOvlETvUl9W9F_OKWGHLKThRFfpJLUayi_99Vuqx4EPwmx5HEw=s85)](https://frozen-brushlands-17487.herokuapp.com/).
+[![Example this app](https://www.aeon.co.th/resources/net-branch/messenger.png)](https://frozen-brushlands-17487.herokuapp.com/).
 
 ## Deploying to Heroku
 
